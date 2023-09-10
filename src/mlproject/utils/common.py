@@ -12,10 +12,13 @@ from typing import Any
 
 @ensure_annotations
 def read_yaml(path_to_yaml:Path) -> ConfigBox:
+    print(path_to_yaml)
     try:
-        with open(path_to_yaml) as yaml_file:
+        path_str = str(path_to_yaml)
+        with open(path_str) as yaml_file:
             #yaml.safe_load() load the yaml data and return into python dictionary
-            content = yaml.safe_load(path_to_yaml)
+            content = yaml.safe_load(yaml_file)
+            print(f"Yaml in dictionary format{content}")
             logging.info(f"yaml file :{path_to_yaml} loaded successfully")
             
             #Inside ConfixBox() we pass dictionary so that we can fetch value by using variablename.key
@@ -25,6 +28,8 @@ def read_yaml(path_to_yaml:Path) -> ConfigBox:
     except Exception as e:
         raise e
     
+
+
     
 @ensure_annotations
 def create_directories(path_to_directories:list,verbose=True):

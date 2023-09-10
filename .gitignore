@@ -1,2 +1,3 @@
 wine-env/
 src.egg-info/
+artifacts/*

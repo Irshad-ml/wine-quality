@@ -1,0 +1,8 @@
+[2023-09-10 20:01:17,778]: 10 main INFO >>>>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<
+[2023-09-10 20:01:17,779]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-10 20:01:17,780]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-10 20:01:17,781]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-10 20:01:17,781]: 39 common INFO created directory at artifacts
+[2023-09-10 20:01:17,781]: 39 common INFO created directory at artifacts/data_ingestion
+[2023-09-10 20:01:18,817]: 22 data_ingestion INFO artifacts/data_ingestion/data.zip downloaded successfully 
+[2023-09-10 20:01:18,835]: 13 main INFO >>>>>>>>>>>stage Data Ingestion Stage completed <<<<<<<<<
