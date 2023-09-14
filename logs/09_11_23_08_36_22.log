@@ -1,0 +1,58 @@
+[2023-09-11 08:44:14,553]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 08:44:52,294]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 08:45:40,897]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 08:46:01,506]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 08:48:26,959]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 08:49:19,418]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 08:49:31,435]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 08:49:38,869]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 09:38:57,101]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 09:39:09,025]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 09:50:35,253]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 09:50:35,260]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 09:50:35,263]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 09:50:35,264]: 39 common INFO created directory at artifacts
+[2023-09-11 09:51:37,151]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 09:51:37,153]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 09:51:37,157]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 09:51:37,158]: 39 common INFO created directory at artifacts
+[2023-09-11 09:52:00,089]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 09:52:00,091]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 09:52:00,094]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 09:52:00,095]: 39 common INFO created directory at artifacts
+[2023-09-11 09:52:00,097]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:07:28,986]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:07:28,989]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:07:28,997]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:07:28,998]: 39 common INFO created directory at artifacts
+[2023-09-11 10:07:28,998]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:08:04,902]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:08:04,903]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:08:04,907]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:08:04,909]: 39 common INFO created directory at artifacts
+[2023-09-11 10:08:04,909]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:08:12,418]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:08:12,419]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:08:12,422]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:08:12,422]: 39 common INFO created directory at artifacts
+[2023-09-11 10:08:12,422]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:08:20,629]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:08:20,631]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:08:20,634]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:08:20,635]: 39 common INFO created directory at artifacts
+[2023-09-11 10:08:20,635]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:08:48,464]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:08:48,465]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:08:48,469]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:08:48,470]: 39 common INFO created directory at artifacts
+[2023-09-11 10:08:48,471]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:09:30,124]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:09:30,125]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:09:30,129]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:09:30,130]: 39 common INFO created directory at artifacts
+[2023-09-11 10:09:30,132]: 39 common INFO created directory at artifacts/data_validation
+[2023-09-11 10:16:06,992]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-11 10:16:06,994]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-11 10:16:07,009]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-11 10:16:07,011]: 39 common INFO created directory at artifacts
+[2023-09-11 10:16:07,012]: 39 common INFO created directory at artifacts/data_validation
