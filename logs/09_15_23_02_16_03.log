@@ -1,0 +1,73 @@
+[2023-09-15 02:16:04,258]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:16:10,361]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:16:10,373]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:16:10,386]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:16:10,387]: 39 common INFO created directory at artifacts
+[2023-09-15 02:16:10,389]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:16:10,461]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:16:10,461]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:16:10,461]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:16:10,507]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:16:10,509]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:16:10,514]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:16:10,516]: 39 common INFO created directory at artifacts
+[2023-09-15 02:16:10,517]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:16:10,559]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:16:10,559]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:16:10,559]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:16:24,562]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:16:24,563]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:16:24,569]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:16:24,570]: 39 common INFO created directory at artifacts
+[2023-09-15 02:16:24,570]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:16:24,608]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:16:24,608]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:16:24,608]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:16:36,486]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:16:36,487]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:16:36,490]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:16:36,490]: 39 common INFO created directory at artifacts
+[2023-09-15 02:16:36,491]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:16:36,543]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:16:36,544]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:16:36,544]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:17:06,374]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:17:06,375]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:17:06,377]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:17:06,378]: 39 common INFO created directory at artifacts
+[2023-09-15 02:17:06,378]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:17:06,408]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:17:06,408]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:17:06,408]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:17:18,987]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:17:18,989]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:17:18,997]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:17:18,997]: 39 common INFO created directory at artifacts
+[2023-09-15 02:17:18,998]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:17:19,042]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:17:19,043]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:17:19,043]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:17:30,389]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:17:30,391]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:17:30,398]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:17:30,399]: 39 common INFO created directory at artifacts
+[2023-09-15 02:17:30,400]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:17:30,441]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:17:30,441]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:17:30,441]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:17:46,892]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:17:46,893]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:17:46,897]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:17:46,898]: 39 common INFO created directory at artifacts
+[2023-09-15 02:17:46,899]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:17:46,924]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:17:46,924]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:17:46,924]: 24 360150345 INFO Shape of the train data: (400, 12)
+[2023-09-15 02:18:52,406]: 22 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-15 02:18:52,407]: 22 common INFO yaml file :params.yaml loaded successfully
+[2023-09-15 02:18:52,411]: 22 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-15 02:18:52,412]: 39 common INFO created directory at artifacts
+[2023-09-15 02:18:52,412]: 39 common INFO created directory at artifacts/data_transformation
+[2023-09-15 02:18:52,446]: 22 360150345 INFO Splitted data into train and test
+[2023-09-15 02:18:52,446]: 23 360150345 INFO Shape of the train data: (1199, 12)
+[2023-09-15 02:18:52,446]: 24 360150345 INFO Shape of the train data: (400, 12)
