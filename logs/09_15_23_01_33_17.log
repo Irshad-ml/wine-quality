@@ -1,8 +1,0 @@
-[2023-09-15 01:33:17,640]: 22 common INFO yaml file :config\config.yaml loaded successfully
-[2023-09-15 01:33:17,672]: 22 common INFO yaml file :config\config.yaml loaded successfully
-[2023-09-15 01:33:17,780]: 22 common INFO yaml file :config\config.yaml loaded successfully
-[2023-09-15 01:33:17,781]: 22 common INFO yaml file :params.yaml loaded successfully
-[2023-09-15 01:33:17,789]: 22 common INFO yaml file :schema.yaml loaded successfully
-[2023-09-15 01:33:17,790]: 39 common INFO created directory at artifacts
-[2023-09-15 01:33:17,790]: 39 common INFO created directory at artifacts/data_ingestion
-[2023-09-15 01:33:18,789]: 16 3307237515 INFO artifacts/data_ingestion/data.zip downloaded successfully 
