@@ -1,0 +1,34 @@
+[2023-09-23 21:40:08,512]: 11 main INFO >>>>>>>>>>>stage Data Ingestion Stage started <<<<<<<<<<
+[2023-09-23 21:40:08,517]: 21 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-23 21:40:08,521]: 21 common INFO yaml file :params.yaml loaded successfully
+[2023-09-23 21:40:08,526]: 21 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-23 21:40:08,526]: 38 common INFO created directory at artifacts
+[2023-09-23 21:40:08,527]: 38 common INFO created directory at artifacts/data_ingestion
+[2023-09-23 21:40:08,528]: 26 data_ingestion INFO file already exist of size ~ 23 KB
+[2023-09-23 21:40:08,557]: 14 main INFO >>>>>>>>>>>stage Data Ingestion Stage completed <<<<<<<<<
+[2023-09-23 21:40:08,557]: 15 main INFO ------------------------------------------------------
+[2023-09-23 21:40:08,557]: 18 main INFO >>>>>>>>>>>stage Data Validation Stage started <<<<<<<<<<
+[2023-09-23 21:40:08,567]: 21 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-23 21:40:08,569]: 21 common INFO yaml file :params.yaml loaded successfully
+[2023-09-23 21:40:08,578]: 21 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-23 21:40:08,579]: 38 common INFO created directory at artifacts
+[2023-09-23 21:40:08,579]: 38 common INFO created directory at artifacts/data_validation
+[2023-09-23 21:40:08,634]: 21 main INFO >>>>>>>>>>>stage Data Validation Stage completed <<<<<<<<<
+[2023-09-23 21:40:08,635]: 22 main INFO ------------------------------------------------------
+[2023-09-23 21:40:08,635]: 25 main INFO >>>>>>>>>>>stage Data Transformation Stage started <<<<<<<<<<
+[2023-09-23 21:40:08,655]: 21 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-23 21:40:08,659]: 21 common INFO yaml file :params.yaml loaded successfully
+[2023-09-23 21:40:08,665]: 21 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-23 21:40:08,665]: 38 common INFO created directory at artifacts
+[2023-09-23 21:40:08,666]: 38 common INFO created directory at artifacts/data_transformation
+[2023-09-23 21:40:08,717]: 22 data_transformation INFO Splitted data into train and test
+[2023-09-23 21:40:08,718]: 23 data_transformation INFO Shape of the train data: (1199, 12)
+[2023-09-23 21:40:08,718]: 24 data_transformation INFO Shape of the train data: (400, 12)
+[2023-09-23 21:40:08,720]: 28 main INFO >>>>>>>>>>>stage Data Transformation Stage completed <<<<<<<<<
+[2023-09-23 21:40:08,720]: 32 main INFO >>>>>>>>>>>>>>>>Model Trainer Stage started <<<<<<<<<<<<<
+[2023-09-23 21:40:08,728]: 21 common INFO yaml file :config\config.yaml loaded successfully
+[2023-09-23 21:40:08,730]: 21 common INFO yaml file :params.yaml loaded successfully
+[2023-09-23 21:40:08,734]: 21 common INFO yaml file :schema.yaml loaded successfully
+[2023-09-23 21:40:08,735]: 38 common INFO created directory at artifacts
+[2023-09-23 21:40:08,736]: 38 common INFO created directory at artifacts/model_trainer
+[2023-09-23 21:40:08,811]: 35 main INFO >>>>>>>>>>>>>>>>Model Trainer Stage completed <<<<<<<<<<<<<
