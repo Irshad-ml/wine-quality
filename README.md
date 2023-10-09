@@ -8,7 +8,7 @@
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Irshad-ml/wine-quality.mlflow \
 MLFLOW_TRACKING_USERNAME=Irshad-ml \
-MLFLOW_TRACKING_PASSWORD=3acde6a67d36fe512914bc2abe1603b13fd958e3 \
+MLFLOW_TRACKING_PASSWORD=3acde6a67d36fe512914bc2abe1603b13fd958e1 \
 python script.py
 
 Run  this command to export or set  as env variable:
@@ -18,5 +18,5 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Irshad-ml/wine-quality.mlflow
 
 export MLFLOW_TRACKING_USERNAME=Irshad-ml
 
-export MLFLOW_TRACKING_PASSWORD=3acde6a67d36fe512914bc2abe1603b13fd958e3
+export MLFLOW_TRACKING_PASSWORD=3acde6a67d36fe512914bc2abe1603b13fd958e1
 ```
