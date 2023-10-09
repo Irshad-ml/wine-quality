@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/m3irs/OneDrive/Desktop/2021DataScience/2023Datascience/Project/wine_quality_project/mlruns/0/e0b2116abd364f75a733b72a09410fab/artifacts
+end_time: 1696842996225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b2116abd364f75a733b72a09410fab
+run_name: unleashed-stoat-178
+run_uuid: e0b2116abd364f75a733b72a09410fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696842992597
+status: 3
+tags: []
+user_id: m3irs

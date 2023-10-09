@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/m3irs/OneDrive/Desktop/2021DataScience/2023Datascience/Project/wine_quality_project/mlruns/0/a274e570a6284d1d8ac794b9e2e94a92/artifacts
+end_time: 1696845324862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a274e570a6284d1d8ac794b9e2e94a92
+run_name: bold-bee-247
+run_uuid: a274e570a6284d1d8ac794b9e2e94a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696845320655
+status: 3
+tags: []
+user_id: m3irs
